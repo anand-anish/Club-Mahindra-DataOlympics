@@ -24,6 +24,7 @@ The final solution was weighted average of 2 XGB models
 
 ### Things I could have added
 - Extra features on member level information (like- # of restaurants visited, average spending pattern per customer)
+- Resort level information on #visitors,#sales
 - holidays
 
 Competition Link: https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
