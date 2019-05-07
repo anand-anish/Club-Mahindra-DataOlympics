@@ -12,9 +12,10 @@ Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) s
 
 Given the information related to resort, club member, reservation etc. the task is to predict average spend per room night on food and beverages for the each reservation in the test set.
 
-### Scoring Metric
+### Evaluation Metric
 
-Score = 100*RMSE
+Submissions are evaluated on 100*Root Mean Squared Error (RMSE) on the variable amount_spent_per_room_night_scaled.
+Eval Metric = 100*RMSE
 
 ### Solution
 The final solution was weighted average of 2 XGB models
